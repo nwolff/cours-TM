@@ -87,4 +87,7 @@ Cet outil permet :
 
 Il faut maîtriser conceptuellement et pratiquement ces opérations : _commit_, _push_, _fetch_, _merge_, _pull-requests_, _versions_, _branches_, _remotes_, _.gitignore_.
 
+l'IDE que vous avez choisi offre très certainement de l'outillage permettant de faire tout ça. Les concepts ne sont pourtant pas complètement intuitifs, vous devrez rechercher sur internet des tutos pour bien comprendre.
+
+
 Il vous faut un compte https://github.com (si vous en avez déjà un inutile d'en recréer un spécifiquement pour le TM, votre compte github vous représente comme individu qui peut avoir de nombreux projets différents).
